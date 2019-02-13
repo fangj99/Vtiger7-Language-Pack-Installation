@@ -8,6 +8,10 @@ Import old language package(SimplifiedChineseLanguagePack_zh_cn.zip) via Vtiger 
 ## Step 2 Copy lastest language package to Vtiger7.1.0
 Unzip the lastest language package(zh_cn.vtiger7.1.0.zip) to folder vtigercrm/languages
 
+https://user-images.githubusercontent.com/13932027/52746257-f810e480-2f95-11e9-975e-18ff6d957809.png
+
+https://user-images.githubusercontent.com/13932027/52746273-ff37f280-2f95-11e9-9372-4da39e1a5151.png
+
 ## Step 3 Change you preference setting of language in Vtiger7.1.0
 Change you preference setting of language to the chinese one in Vtiger7.1.0
 
