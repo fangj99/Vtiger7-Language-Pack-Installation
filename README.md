@@ -1,5 +1,5 @@
 # Vtiger7.1.0-Language-Pack-Installation
-Vtiger7.1.0 Language Pack Installation with Older Version Packages(Simplified Chinese Language Pack from 6.0)
+Vtiger7.1.0 Language Pack Installation with Older Version Packages(For Example: Simplified Chinese Language Pack from 6.0)
 
 
 ## Step 1 Import old language package to Vtiger7.1.0
